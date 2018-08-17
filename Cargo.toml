@@ -1,0 +1,6 @@
+[package]
+name = "SlidingBloomFilter"
+version = "0.1.0"
+authors = ["shoaft"]
+
+[dependencies]
